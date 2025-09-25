@@ -1,5 +1,5 @@
 # Test
-## Test.
+## Test
 Ceci est un texte instructif.
-## Merci.
+## Merci
 Ma vie a changé depuis la lecture de ce texte instructif.
